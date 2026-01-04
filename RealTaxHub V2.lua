@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/4724cb28efd80f2b"))()
+loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/6dc67a3e83b46122"))()
 -- ⚠️ WARNING: TaxObfuscator protected this script so fuck off skid!
 --[[
 
